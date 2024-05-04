@@ -18,6 +18,7 @@ table th, td {
 table tr:hover{
     background: hsl(0, 0%, 92%);
 }
+
 td{
     font-size: 14px;
 }

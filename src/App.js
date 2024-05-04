@@ -21,6 +21,7 @@ const movies = [
   { title: "The Lion King", genre: "Animation", year: 1994 },
 ];
 
+
 const App = () => {
 
   const [selectedGenre, setSelectedGenre] = useState("");

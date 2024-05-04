@@ -19,6 +19,7 @@ const GenreFilter = ({setSelectedGenre}) => {
     setSelectedGenre(genre);
     console.log("Filtering by", genre);
   }
+  
 
   return (
   <div className="filter-container">
